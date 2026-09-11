@@ -12,6 +12,8 @@ His research sits in **computer vision and deep learning**, with a current focus
 
 In summer 2025 he was a research intern at the [RIKEN Guardian Robot Project](https://grp.riken.jp/en/) in Japan, hosted by [Prof. Yasutomo Kawanishi](https://yasutomo57jp.github.io/en/), working on video text spotting for urban surveillance. Before joining AI4LIFE he spent two years with the Computer Vision and Intelligent Communication Networks research groups at the BKAI Center, HUST.
 
+**He is currently looking for PhD opportunities in computer vision**, and would be glad to hear from groups working on scene text, video understanding, or multimodal recognition.
+
 #### Updates
 
 - **June 2026** - *Back-Tracking from Clarity: Self-Learning to See Text from Afar* was accepted at **ECCV 2026**.
