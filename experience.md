@@ -11,7 +11,7 @@ permalink: /experience/
 <br>Scene text detection, scene text tracking, and sign language recognition.
 
 **RIKEN Guardian Robot Project, Japan** - *Research Intern*
-<br><small>Jul 2025 - Sep 2025 · Host: Prof. Yasutomo Kawanishi</small>
+<br><small>Jul 2025 - Sep 2025 · Host: [Prof. Yasutomo Kawanishi](https://yasutomo57jp.github.io/en/)</small>
 <br>Video text spotting for urban surveillance; scene text detection and tracking.
 
 **Intelligent Communication Networks group, BKAI Center, SoICT, HUST** - *Research Assistant*
@@ -68,6 +68,6 @@ permalink: /experience/
 <br><small>Director, Institute for AI Innovation and Societal Impact (AI4LIFE), Hanoi University of Science and Technology</small>
 <br><small>lenp@soict.hust.edu.vn</small>
 
-**Prof. Minh Hoai Nguyen**
+**[Prof. Minh Hoai Nguyen](https://minhhoai.net/)**
 <br><small>Deputy Director, Australian Institute for Machine Learning (AIML), The University of Adelaide</small>
 <br><small>mh.nguyen@adelaide.edu.au</small>
