@@ -32,36 +32,6 @@ permalink: /experience/
 <br><small>Apr 2023 - Sep 2023</small>
 <br>Real-time human pose tracking and diffusion models.
 
-#### Education
-
-**Hanoi University of Science and Technology** - *B.S. in Data Science*
-<br><small>Aug 2020 - Sep 2024 · School of Information and Communication Technology · CPA 3.85/4.0</small>
-<br>Major: Data Science and Artificial Intelligence (DS-AI).
-<br>Thesis: *Utilizing a Hybrid Approach for Building Segmentation in Drone Images* (advisor: Dr. Tran Nguyen Ngoc).
-
-**HUS High School for Gifted Students (HSGS)**
-<br><small>Aug 2017 - Aug 2020 · Physics specialized class · GPA 9.6/10</small>
-
-#### Honors & Awards
-
-- Salutatorian, entrance examination of HUS High School for Gifted Students (28.5/30)
-- Excellent Scholarship, HUS High School for Gifted Students
-
-#### Technical Skills
-
-| Area | Tools |
-|---|---|
-| **Languages** | Python, Java, C/C++, R, MATLAB, SQL |
-| **Deep learning** | PyTorch, TensorFlow |
-| **ML & data** | scikit-learn, NumPy, pandas, Seaborn, Matplotlib |
-| **Computer vision** | OpenCV, Pillow, Albumentations, torchvision, imgaug |
-| **Other** | Bash, Linux, LaTeX |
-
-#### Languages
-
-- Vietnamese - native
-- English - IELTS 7.0 (2024)
-
 #### References
 
 **[Assoc. Prof. Phi Le Nguyen](https://soict.hust.edu.vn/ts-nguyen-phi-le.html)**
