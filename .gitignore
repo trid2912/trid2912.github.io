@@ -1,0 +1,22 @@
+_site
+.DS_Store
+.jekyll
+.jekyll-metadata
+.bundle
+.sass-cache
+Gemfile.lock
+node_modules
+package.json
+
+# LaTeX build artifacts
+cv-source/*.aux
+cv-source/*.bbl
+cv-source/*.bcf
+cv-source/*.blg
+cv-source/*.fdb_latexmk
+cv-source/*.fls
+cv-source/*.log
+cv-source/*.out
+cv-source/*.run.xml
+cv-source/*.pdf
+.jekyll-cache
