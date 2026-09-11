@@ -16,7 +16,7 @@ permalink: /experience/
 
 **Intelligent Communication Networks group, BKAI Center, SoICT, HUST** - *Research Assistant*
 <br><small>Sep 2023 - Sep 2024 · Supervisor: Assoc. Prof. Phi Le Nguyen</small>
-<br>Diffusion models for CT→PET image translation, reinforcement learning, and causal discovery.
+<br>Diffusion models for CT→PET image translation.
 
 **Computer Vision group, BKAI Center, SoICT, HUST** - *Research Assistant*
 <br><small>Jul 2022 - Sep 2024 · Supervisor: Dr. Tran Nguyen Ngoc</small>
