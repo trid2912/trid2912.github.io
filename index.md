@@ -14,9 +14,9 @@ In summer 2025 he was a research intern at the [RIKEN Guardian Robot Project](ht
 
 #### Updates
 
-- **June 18, 2026** - *Back-Tracking from Clarity: Self-Learning to See Text from Afar* was accepted at **ECCV 2026**.
-- **June 5, 2026** - *TraRA: Trajectory-level Recognition Aggregation for Video Text Spotting in Urban Surveillance* was accepted at **AVSS 2026** as an **Oral**.
-- **Jul - Sep 2025** - Research internship at the **RIKEN Guardian Robot Project**, hosted by [Prof. Yasutomo Kawanishi](https://yasutomo57jp.github.io/en/).
-- **2025** - *Sign Language Recognition: A Large-scale Multi-view Dataset and Comprehensive Evaluation* appeared at **WACV 2025**.
-- **Sep 2024** - Joined **AI4LIFE**, HUST as a Research Assistant.
-- **Sep 2024** - Graduated from HUST with a **B.S. in Data Science** (CPA 3.85/4.0).
+- **June 2026** - *Back-Tracking from Clarity: Self-Learning to See Text from Afar* was accepted at **ECCV 2026**.
+- **June 2026** - *TraRA: Trajectory-level Recognition Aggregation for Video Text Spotting in Urban Surveillance* was accepted at **AVSS 2026** as an **Oral**.
+- **October 2025** - *Sign Language Recognition: A Large-scale Multi-view Dataset and Comprehensive Evaluation* appeared at **WACV 2025**.
+- **July - September 2025** - Research internship at the **RIKEN Guardian Robot Project**, hosted by [Prof. Yasutomo Kawanishi](https://yasutomo57jp.github.io/en/).
+- **September 2024** - Joined **AI4LIFE**, HUST as a Research Assistant.
+- **September 2024** - Graduated from HUST with a **B.S. in Data Science** (CPA 3.85/4.0).
