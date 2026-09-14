@@ -35,7 +35,7 @@ bundle exec jekyll serve
 |---|---|
 | Name, tagline, avatar, footer links | `_config.yml` |
 | Bio + Updates list | `index.md` |
-| Publication list | `publications.md` |
+| Publication list | `_data/publications.yml` |
 | Experience / education / skills | `experience.md` |
 | CV page | `cv.md` |
 | Nav bar items | `_layouts/default.html` |

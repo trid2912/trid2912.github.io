@@ -4,19 +4,35 @@ title: Publications
 permalink: /publications/
 ---
 
-1. **Duc Tri Tran**, Phi Le Nguyen and Minh Hoai.
-   *Back-Tracking from Clarity: Self-Learning to See Text from Afar.*
-   **European Conference on Computer Vision (ECCV), 2026.**
-
-2. **Duc Tri Tran**, Trung Thanh Nguyen, Vijay John, Phi Le Nguyen and Yasutomo Kawanishi.
-   *TraRA: Trajectory-level Recognition Aggregation for Video Text Spotting in Urban Surveillance.*
-   **International Conference on Advanced Visual and Signal-Based Systems (AVSS), 2026.** &nbsp;<span style="color:#c0392b">**Oral**</span>
-
-3. Son Dinh, Dung Nguyen, **Duc-Tri Tran**, Dang-Huy Pham-Nguyen, Thuan Hieu Tran, Tong Anh, Quang Huy Hoang and Phi Le Nguyen.
-   *Sign Language Recognition: A Large-scale Multi-view Dataset and Comprehensive Evaluation.*
-   **IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025.**
-
-<!--
-Add links as they go live, e.g.:
-   [[paper](https://arxiv.org/abs/XXXX.XXXXX)] [[code](https://github.com/trid2912/...)] [[project page](...)]
--->
+<!-- Entries live in _data/publications.yml -->
+<div class="publications">
+{% assign by_year = site.data.publications | group_by: "year" %}
+{% for group in by_year %}
+  <h2 class="year">{{ group.name }}</h2>
+  <ol class="bibliography">
+  {% for pub in group.items %}
+    <li class="pub">
+      <div class="pub-badges">
+        <abbr class="badge">{{ pub.abbr }}</abbr>
+        {% if pub.award %}<abbr class="badge award">{{ pub.award }}</abbr>{% endif %}
+      </div>
+      <div class="pub-body">
+        <div class="pub-title">{{ pub.title }}</div>
+        <div class="pub-authors">
+          {% for author in pub.authors %}
+            {% if forloop.last and forloop.length > 1 %}and {% endif %}
+            {% if site.me contains author %}<strong><u>{{ author }}</u></strong>{% else %}{{ author }}{% endif %}{% unless forloop.last %}, {% endunless %}
+          {% endfor %}
+        </div>
+        <div class="pub-venue"><em>In {{ pub.venue }}</em> {{ pub.year }}</div>
+        {% if pub.links %}
+        <div class="pub-links">
+          {% for link in pub.links %}<a class="btn" href="{{ link[1] }}" target="_blank" rel="noopener noreferrer">{{ link[0] }}</a>{% endfor %}
+        </div>
+        {% endif %}
+      </div>
+    </li>
+  {% endfor %}
+  </ol>
+{% endfor %}
+</div>

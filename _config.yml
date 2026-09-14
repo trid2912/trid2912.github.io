@@ -12,6 +12,11 @@ description:
 # URL of your avatar or profile pic (circular, shown in the header)
 avatar: /images/tran-duc-tri.jpg
 
+# Your name as it appears in author lists (bold + underlined on Publications)
+me:
+  - Duc Tri Tran
+  - Duc-Tri Tran
+
 #
 # Flags below are optional
 #

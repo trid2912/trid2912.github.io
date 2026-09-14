@@ -1,0 +1,26 @@
+# Publications, newest first. Rendered by publications.md.
+#
+#   abbr:    short venue label shown in the colored badge
+#   award:   optional second badge (e.g. Oral, Spotlight)
+#   links:   optional buttons, e.g.  links: { arXiv: https://..., Code: https://... }
+#
+# Names listed under `me` in _config.yml are shown bold + underlined.
+
+- title: "Back-Tracking from Clarity: Self-Learning to See Text from Afar"
+  authors: [Duc Tri Tran, Phi Le Nguyen, Minh Hoai]
+  venue: European Conference on Computer Vision
+  abbr: ECCV
+  year: 2026
+
+- title: "TraRA: Trajectory-level Recognition Aggregation for Video Text Spotting in Urban Surveillance"
+  authors: [Duc Tri Tran, Trung Thanh Nguyen, Vijay John, Phi Le Nguyen, Yasutomo Kawanishi]
+  venue: International Conference on Advanced Visual and Signal-Based Systems
+  abbr: AVSS
+  award: Oral
+  year: 2026
+
+- title: "Sign Language Recognition: A Large-scale Multi-view Dataset and Comprehensive Evaluation"
+  authors: [Son Dinh, Dung Nguyen, Duc-Tri Tran, Dang-Huy Pham-Nguyen, Thuan Hieu Tran, Tong Anh, Quang Huy Hoang, Phi Le Nguyen]
+  venue: IEEE/CVF Winter Conference on Applications of Computer Vision
+  abbr: WACV
+  year: 2025
