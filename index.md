@@ -8,11 +8,9 @@ permalink: /
 
 **Duc Tri Tran** is a Research Assistant at the [Institute for AI Innovation and Societal Impact (AI4LIFE)](https://ai4life.hust.edu.vn/), Hanoi University of Science and Technology, where he is advised by [Assoc. Prof. Phi Le Nguyen](https://soict.hust.edu.vn/ts-nguyen-phi-le.html). He received his B.S. in Data Science from the School of Information and Communication Technology, HUST, in 2024.
 
-His research sits in **computer vision and deep learning**, with a current focus on **scene text detection, tracking, and spotting** - reading text reliably in the wild, where it is small, distant, blurred, and moving. He is also interested in **object detection and tracking**, **sign language recognition**, and **multi-spectral image processing**. A recurring theme across his work is building large-scale benchmarks and then designing methods that hold up on the hard end of them.
+His research focuses on **adapting current foundation models to real-life applications** - taking the general capabilities of large pretrained models and making them work reliably under the conditions practical systems actually face. One such application is **scene text spotting**, where his goal is to make spotters detect and recognize text **earlier**, while it is still small and far away, and **more accurately**. He is also interested in **object detection and tracking**, **sign language recognition**, and **multi-spectral image processing**.
 
 In summer 2025 he was a research intern at the [RIKEN Guardian Robot Project](https://grp.riken.jp/en/) in Japan, hosted by [Prof. Yasutomo Kawanishi](https://yasutomo57jp.github.io/en/), working on video text spotting for urban surveillance. Before joining AI4LIFE he spent two years with the Computer Vision and Intelligent Communication Networks research groups at the BKAI Center, HUST.
-
-**He is currently looking for PhD opportunities in computer vision**, and would be glad to hear from groups working on scene text, video understanding, or multimodal recognition.
 
 #### Updates
 
