@@ -10,7 +10,7 @@ name: Duc-Tri Tran
 description:
 
 # URL of your avatar or profile pic (circular, shown in the header)
-avatar: /images/profile.jpg
+avatar: /images/tran-duc-tri.jpg
 
 #
 # Flags below are optional
@@ -76,3 +76,4 @@ exclude:
   - README.md
   - CNAME
   - cv-source
+  - tran duc tri.jpg

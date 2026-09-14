@@ -43,7 +43,7 @@ bundle exec jekyll serve
 
 ### Photos
 
-- `images/profile.jpg` — 400x400 head crop, shown as the circular header avatar
+- `images/tran-duc-tri.jpg` — 400x400 head crop, shown as the circular header avatar
   (set via `avatar:` in `_config.yml`).
 - `images/milan.jpg` — the full photo, 900px wide. Unused by default; uncomment
   the `<img>` line at the top of `index.md` to float it beside the bio.
